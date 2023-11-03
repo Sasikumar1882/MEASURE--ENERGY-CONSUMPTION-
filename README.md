@@ -14,7 +14,8 @@ Use ANOCONDA
 
 # The project is about measure energy consumption about previous datasets and make data analyze
 
-for more detail JUST : git clone 
+for more detail JUST : git clone https://github.com/Sasikumar1882/MEASURE--ENERGY-CONSUMPTION
+
 clone my repo and you got different phases 1,2,3,4,5 of projects in PDF format 
 
 
